@@ -14,6 +14,7 @@ is drawn hollow and counts as distance, not as gain.
   python3 fig_component_tradeoff.py
 """
 from __future__ import annotations
+import os
 import json, sys, shutil
 from pathlib import Path
 import numpy as np
@@ -28,7 +29,7 @@ ABL = HERE.parent
 sys.path.insert(0, str(HERE))
 import summarize_ablation as SA                      # agg, value_at, load, ARMS, ITEMS, paths
 S6 = SA.S6
-V9_FIG = ABL.parents[2] / "draft_v9/figures/main_figures"
+V9_FIG = Path(os.environ.get("SCISLOP_PAPER_DIR", ".")) / "figures/main_figures"
 
 ITEMS = SA.ITEMS
 NAME = SA.LONG

@@ -2,7 +2,7 @@
 
 This is the table the earlier PDF-versus-TeX comparison could not produce. Every count below is
 read by slopbench_lib.metrics from LaTeX on both sides, so a gap is a property of the papers and
-not of the reader. SPECTER2 counterpart rank mirrors the draft_v7 alignment table.
+not of the reader. SPECTER2 counterpart rank mirrors the paper's alignment table.
 """
 import json, os, statistics as st
 

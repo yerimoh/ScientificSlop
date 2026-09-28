@@ -1,6 +1,6 @@
-"""Agents4Science pairs under the draft_v7 benchmark spec.
+"""Agents4Science pairs under the benchmark spec of Appendix B.
 
-The spec (draft_v7 .../sections/supp_sections/01.supp_construction_details.tex) keeps the four
+The spec (Appendix B, construction details) keeps the four
 selection criteria of PAIR_RULE_0911 and adds one that A4S does not automatically satisfy: the
 final benchmark contains only pairs "with LaTeX source on both sides", read with the same parser.
 A4S ships PDFs, so the AI side has to be recovered from supplementary.zip, and that recovery sets
@@ -103,7 +103,7 @@ def main():
         q["benchmark_ready"] = not c
 
     out = dict(generated="2026-09-18",
-               spec="draft_v7 _ICLR_2027__Scientific_Mold (5), app:data_detail_matching",
+               spec="Appendix B, app:data_detail_matching",
                corpus="Agents4Science 2025, all domains (247 papers)",
                ceiling_note="both sides need LaTeX and the A4S source must be the submitted "
                             "document; 17 of 154 submissions have a title-matching source in "

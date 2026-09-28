@@ -38,6 +38,6 @@ echo "reviews now: b2h $(ls results/reviews/b2h | wc -l) b3a $(ls results/review
 step "10 final figures + report"
 for v in "" "--ours-agg3" "--bands" "--ours-agg3 --bands"; do python3 scripts/fig_rating_systems.py $v | tail -1; done
 python3 scripts/fig_stairs_systems.py | tail -1; python3 scripts/report.py
-D="${SCISLOP_ROOT}/paper/draft_v6/paper/real/_ICLR_2027__Scientific_Mold (2)/figures/main_figures"
+D="${SCISLOP_PAPER_DIR}/figures/main_figures"
 cp results/fig_review_stairs.pdf "$D/fig3_review_stairs.pdf"; cp results/fig_rating_systems_agg3_bands.pdf "$D/fig3_review_vs_systems.pdf"; cp results/fig_stairs_systems.pdf "$D/fig3_review_stairs_systems.pdf"
 step "PIPELINE_DONE"

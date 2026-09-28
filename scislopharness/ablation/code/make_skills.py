@@ -1,4 +1,4 @@
-"""Component ablation of the editor's information (draft_v9 §5 q3: "which component carries the gain").
+"""Component ablation of the editor's information (§5: "which component carries the gain").
 
 Derives three reduced skill files from the shipped SciSlop_v0.5.md so that every retained field is
 verbatim and only the ablated fields are removed.
@@ -24,7 +24,7 @@ ABL = HERE.parent
 SRC = ABL.parent / 'ver1' / 'temp' / 'skill' / 'SciSlop_v0.5.md'
 OUT = ABL / 'skills'
 
-# Pattern names as the paper names them (draft_v9 Tables / Fig. SciSlopHarness). The shipped heading of entry 4 is
+# Pattern names as the paper names them (paper tables / Fig. SciSlopHarness). The shipped heading of entry 4 is
 # "Citation (isolated citations in the Introduction and Related Work)"; the parenthetical is a gloss, i.e. definition,
 # so the name-only arm must not carry it. "Citation isolation" is the paper's name for the item.
 NAMES = {'Cross-section references': 'Cross-section references', 'Macro redundancy': 'Macro redundancy',

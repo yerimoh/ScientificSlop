@@ -114,7 +114,8 @@ Qwen2.5-VL-32B-Instruct for figure transcription; greedy decoding, bfloat16, eve
 model. Detectors use falcon-7b(-instruct), t5-3b, gpt-j-6b and gpt-neo-2.7B. The reviewer baselines use
 `WestlakeNLP/CycleReviewer-ML-Llama-3.1-8B` and Qwen2.5-32B-Instruct. SciSlopHarness and the revision baselines call
 Claude models through the Claude Code CLI. SLURM scripts (`*.sbatch`, `run*.sh`) document the GPU shapes used; set
-`SLURM_QOS`, `VLLM_PYTHON` and `LLM_ENDPOINT` for your cluster.
+`SLURM_QOS`, `VLLM_PYTHON` and `LLM_ENDPOINT` for your cluster; scripts that write figures or tables into the paper's
+LaTeX folder take it from `SCISLOP_PAPER_DIR`.
 
 ## Repository layout
 

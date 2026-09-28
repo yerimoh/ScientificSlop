@@ -1,17 +1,17 @@
-r"""Appendix table for app:measurers_review (draft_v9): rejected-against-accepted AUROC inside each ICLR year,
+r"""Appendix table for app:measurers_review: rejected-against-accepted AUROC inside each ICLR year,
 for every system and every slop measure, from results/scores_years.csv.
 
 Same rule as panel (c) of fig_review_alignment.py: within one year, the probability that a rejected paper scores
 more AI-like than an accepted one (accept + oral), every score oriented so that higher means more AI-like, and a cell
 is printed only when both sides hold at least 15 papers. The panel draws four of these rows; the table shows all of
 them, so each measure's own association can be read (five-measure aggregate row dropped 0924 at the author's request).
-Writes paper/draft_v9/tables/supp_tables/tab_review_year_auroc.tex and results/alignment/year_auroc_table.json.
+Writes $SCISLOP_PAPER_DIR/tables/supp_tables/tab_review_year_auroc.tex and results/alignment/year_auroc_table.json.
 """
 import csv, itertools, json, os
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.environ.get("SCISLOP_ROOT", ".")
-OUT_TEX = f"{ROOT}/paper/draft_v9/tables/supp_tables/tab_review_year_auroc.tex"
+OUT_TEX = os.environ.get("SCISLOP_PAPER_DIR", ".") + "/tables/supp_tables/tab_review_year_auroc.tex"
 OUT_JSON = f"{HERE}/results/alignment/year_auroc_table.json"
 YEARS = [str(y) for y in range(2017, 2026)]
 MIN_SIDE = 15

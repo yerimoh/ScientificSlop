@@ -8,6 +8,7 @@ fig_exposition keeps its R0 value because the baselines do not touch images.
   python3 fig_harness_result.py [--out <dir>]
 """
 from __future__ import annotations
+import os
 import argparse, json, sys
 from pathlib import Path
 import numpy as np
@@ -84,7 +85,7 @@ def interval(values, rng, B=2000):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--out', default=str(DRAFT.parent / 'draft_v7' / '_ICLR_2027__Scientific_Mold (5)' / 'figures' / 'main_figures'))
+    ap.add_argument('--out', default=os.environ.get('SCISLOP_PAPER_DIR', '.') + '/figures/main_figures')
     ap.add_argument('--name', default='fig_scislopharness_result')
     ap.add_argument('--row', action='store_true')
     ap.add_argument('--no-shade', action='store_true')

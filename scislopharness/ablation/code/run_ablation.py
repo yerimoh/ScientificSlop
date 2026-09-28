@@ -1,4 +1,4 @@
-"""Component ablation of the information given to the editor (draft_v9 §5 q3, 0922).
+"""Component ablation of the information given to the editor (§5, 0922).
 
 Same harness, same editor (Haiku 4.5, per-file edit blocks, thinking 1024), same reviewer (Sonnet 5 text gate with the
 FULL SciSlop_v0.5.md and the FULL located-instance list), same three rounds and the same 60 papers as the shipped method

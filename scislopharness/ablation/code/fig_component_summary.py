@@ -8,6 +8,7 @@ Also writes tab_component_summary.tex, the same four numbers as a table, for the
   python3 fig_component_summary.py
 """
 from __future__ import annotations
+import os
 import json, shutil
 from pathlib import Path
 import matplotlib
@@ -16,7 +17,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
 HERE = Path(__file__).resolve().parent; ABL = HERE.parent
-V9 = ABL.parents[2] / "draft_v9"
+V9 = Path(os.environ.get("SCISLOP_PAPER_DIR", "."))
 INK, MUTED, HAIR, GRID = "#1A1A1A", "#6E6E6E", "#C8C8C8", "#E8E8E8"
 HUMAN, BAND, BRICK = "#3E7A54", "#F3F1EC", "#B3453A"
 ROWS = [("original", "Original", None), ("nogate", "Definitions + locations", (1, 1, 0)), ("gateonly", "Review only", (0, 0, 1)),

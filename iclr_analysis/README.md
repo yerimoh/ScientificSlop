@@ -22,8 +22,8 @@ Data lands in `$SCISLOP_ROOT/artifact-ai2science/Evaluation/ICLR/data/<year>/<no
 `collect/iclr_2026/`: `build_dataset.py` joins the public Pangram verdicts of the ICLR 2026 detection partnership
 (`iclr.pangram.com/data/{submissions,reviews}.json`, `fraction_ai` per submission) with the accept flags and arXiv ids
 of the `ai-conferences/ICLR2026` mirror into `papers_2026.jsonl`; `collect_texts.py` fetches the arXiv sources of the
-stratified sample; `pangram_api.py` is the Pangram v3 client (`PANGRAM_API_KEY`); `analyze.py` and `plots.py`
-summarize the 19k-submission corpus. `papers_2026.jsonl` is also the Pangram source of pairing condition H1 and of the
+stratified sample; `analyze.py` and `plots.py` summarize the 19k-submission corpus. Pangram is never called here:
+all 2026 verdicts are the ones ICLR 2026 published. `papers_2026.jsonl` is also the Pangram source of pairing condition H1 and of the
 widened anchor pool in `../benchmark/construction/`.
 
 ## Measurement and analysis (`scripts/`)

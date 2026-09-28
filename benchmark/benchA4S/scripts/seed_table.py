@@ -87,8 +87,7 @@ for t in tex:
     print(t)
 
 # Write the rows straight into the appendix table, so the paper never holds a hand-typed number.
-TAB = (os.environ.get("SCISLOP_ROOT", ".") + "/paper/draft_v7/"
-       "_ICLR_2027__Scientific_Mold (5)/tables/supp_tables/tab_seed_variance.tex")
+TAB = os.environ.get("SCISLOP_PAPER_DIR", ".") + "/tables/supp_tables/tab_seed_variance.tex"
 if tex and os.path.isfile(TAB):
     body = open(TAB).read()
     start = body.index("\\midrule") + len("\\midrule")

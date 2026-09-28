@@ -22,6 +22,7 @@ Outputs
   fig_revision_*_row          the manuscript pair, one row, (a) effects and (b) interactions
   fig_revision_pair_compact   a PNG preview of the pair, without captions
 """
+import os
 import json
 import argparse
 from pathlib import Path
@@ -38,7 +39,7 @@ import numpy as np
 from aggregate import r0_rows, rows, score_of
 
 EOR = Path(__file__).resolve().parents[1]
-PAPER = EOR.parent / "paper/real/_ICLR_2027__Scientific_Mold (2)"
+PAPER = Path(os.environ.get("SCISLOP_PAPER_DIR", "paper"))   # the paper's LaTeX folder (figures/, tables/)
 OUT = PAPER / "figures/main_figures"
 TEXTWIDTH = 5.5                      # ICLR \textwidth, in inches
 
