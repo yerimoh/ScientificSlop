@@ -1,0 +1,9 @@
+role	pattern
+Abstract	^abstract$
+Intro	^(\d+\.?\s*)?(introduction|intro|overview and motivation|motivation)$
+Related	related|prior work|background|preliminar|literature|previous work|problem setting|notation
+Method	method|approach|framework|model|algorithm|proposed|architecture|formulation|design|technique|theory|theoretical|our system|system description|defense|attack
+Experiments	experiment|evaluation|result|empirical|setup|implementation detail|benchmark|study|ablation|training dynamics|analysis|comparison|per-seed|rankings|findings
+Conclusion	conclusion|discussion|limitation|future work|broader impact|ethic|summary
+Appendix	appendix|supplement|proof|additional|hyperparameter|dataset detail|prompt
+Other	.*

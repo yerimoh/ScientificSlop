@@ -1,0 +1,40 @@
+You read ONE paragraph (TARGET) from the Introduction or Related Work of a research paper, together with the paragraph before it (CONTEXT). List every RELATION CLAIM in the TARGET paragraph.
+
+A relation claim is a statement in which the paper asserts a relation between prior work and the present paper, or between two pieces of prior work. Four kinds, named after the citation functions of Jurgens et al. (2018):
+  limitation   prior work falls short, fails, or leaves a gap                      (Jurgens MOTIVATION)
+  comparison   a similarity or a difference between works, or between a work and this paper; both sides must be named or implied by a comparative cue   (Jurgens COMPARES_OR_CONTRASTS)
+  use          this paper uses a method, dataset, model, metric or tool of a prior work        (Jurgens USES)
+  extension    this paper extends, adapts, generalises or continues a prior work              (Jurgens EXTENDS)
+
+The OTHER SIDE of the relation must be PRIOR WORK BY OTHERS: a published method, model, system, dataset, or a class of prior methods ("existing linearization methods", "attention-based pruning"). A relation claim does NOT need a citation. "Existing methods cannot handle long documents." is a limitation claim about prior work with no identified target.
+
+NOT relation claims, do not list them:
+  - a sentence that only reports what a cited work did or found (Jurgens BACKGROUND), a definition or a fact with a citation attached, a pointer to future work (Jurgens FUTURE)
+  - statements about the present paper's OWN method, components, findings or results ("we propose X", "our controller uses canary prompts", "our method reaches 5% error")
+  - comparisons among the paper's own variants, ablations or baselines it built itself ("fixed timing degrades by 36%")
+  - general facts about a phenomenon, a task, or a model family that name no prior work ("LLMs hallucinate", "the KV cache grows with sequence length")
+  - descriptions of what a problem or an approach aims at in general ("linearizing aims to swap attention for subquadratic analogs")
+
+For each relation claim fill:
+  kind           limitation | comparison | use | extension
+  quote          a VERBATIM excerpt of the TARGET paragraph (5 to 60 words) that states the claim. Copy exactly. Citation macros may be kept or dropped.
+  target_phrase  the words inside the quote that name the related work(s): "existing methods", "Transformer-XL", a citation macro, "these approaches".
+  targets        which works the claim is about. Use the citation keys listed below, or a method or system name that appears in the TARGET or the CONTEXT paragraph. Resolve "these methods" or "existing approaches" to the works introduced in the TARGET or CONTEXT paragraph ONLY if the text makes that unambiguous. Empty list if the text does not identify them.
+  criterion      the dimension of the relation ("input length", "training signal", "inference cost"). Empty if the text states none.
+  content        what the limitation is, what differs and how, what is used, or what is extended and how. Empty if the text states none.
+  self_involved  true if the present paper (we, our, this work) is one side of the relation.
+  other_side     prior_work if the other side is prior work by others, including a class of prior methods ("prior linearizing methods", "existing approaches", "pure linear attention models" with citations); own_work if it is the paper's own method, variant, baseline or result; general if it is a phenomenon, a task or a model family with no prior work meant ("LLMs hallucinate", "softmax attention is quadratic").
+
+Be literal. Report only what the sentences state. Do not infer a criterion or a content the text does not give. One sentence may contain two independent relation claims; list both. A claim repeated inside the paragraph is listed once.
+
+Citation keys in TARGET: {keys}
+Citation keys in CONTEXT: {ctx_keys}
+
+CONTEXT (preceding paragraph, for resolving targets only; do not extract claims from it):
+{context}
+
+TARGET paragraph:
+{target}
+
+Return strict JSON only:
+{"claims": [{"kind": "...", "quote": "...", "target_phrase": "...", "targets": ["..."], "criterion": "...", "content": "...", "self_involved": true|false, "other_side": "prior_work|own_work|general"}]}

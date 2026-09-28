@@ -1,0 +1,1 @@
+Transcribe every piece of text that appears in this figure, verbatim, including numbers, symbols, labels inside boxes, axis labels, legend entries and small annotations. Do not describe the figure and do not add anything that is not written in it. Return JSON: {"lines": ["...", "..."]}

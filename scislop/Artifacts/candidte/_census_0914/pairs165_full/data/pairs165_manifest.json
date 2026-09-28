@@ -1,0 +1,1010 @@
+[
+ {
+  "code": "FA0001",
+  "arxiv": "2405.16833",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2405.16833.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0001_canary-controlled-safe-interleaving/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0002",
+  "arxiv": "2306.14048",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2306.14048.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0002_adaptive-sre-kv-cache-allocation/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0004",
+  "arxiv": "2401.10480",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2401.10480/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0004_anytime-cbu-evaluator/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0005",
+  "arxiv": "2312.02119",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2312.02119.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0005_selective-delex-json/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0006",
+  "arxiv": "2407.18370",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2407.18370/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0006_view-disagreement-escalation-trajectory-judges/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0007",
+  "arxiv": "2406.18495",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2406.18495/paper.pdf",
+  "ai_png": null,
+  "tier": 3
+ },
+ {
+  "code": "FA0008",
+  "arxiv": "2207.01780",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2207.01780/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0008_confidence-bounded-unit-test-rewards/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0012",
+  "arxiv": "2401.12168",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2401.12168.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0012_tos-delta-map-updates/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0013",
+  "arxiv": "2601.03309",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2601.03309.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0013_contractive-rd-vla/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0015",
+  "arxiv": "2402.04333",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2402.04333.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0015_orthogonal-junk-pretraining/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0016",
+  "arxiv": "2504.07109",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2504.07109.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0016_comprexit-query-conditioned-ot/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0017",
+  "arxiv": "2504.13936",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2504.13936.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0017_gebench-copy-then-edit-inpainting/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0018",
+  "arxiv": "2505.22257",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2505.22257.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0018_compute-matched-ta-grpo/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0019",
+  "arxiv": "2509.16131",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2509.16131.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0019_mova-bridge-guidance-schedule/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0020",
+  "arxiv": "2310.01691",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2310.01691/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0020_transferable-defensive-tokens/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0021",
+  "arxiv": "2305.20050",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2305.20050/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0021_igrpo-best-draft-ablation/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0022",
+  "arxiv": "2305.11206",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2305.11206/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0022_termination-aware-sft-repetition-advantage/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0023",
+  "arxiv": "2410.02712",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2410.02712/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0023_answer-free-self-referential-critic/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0025",
+  "arxiv": "2405.20915",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2405.20915/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0025_risk-controlled-dllm-early-exit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0027",
+  "arxiv": "2402.14016",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2402.14016/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0027_counterfactual-reference-swap-verifier/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0028",
+  "arxiv": "2510.01161",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2510.01161.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0028_adaptive-mispo-acceptance-control/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0029",
+  "arxiv": "2504.02010",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2504.02010.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0029_rocket-activation-aware-knapsack/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0031",
+  "arxiv": "2310.01798",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2310.01798.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0031_livemedbench-contextual-constraints-guardrail/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0032",
+  "arxiv": "2507.02259",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2507.02259.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0032_risk-controlled-memory-agent-stopping/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0033",
+  "arxiv": "2405.15793",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2405.15793.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0033_featurebench-smoketest-import-autofix/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0034",
+  "arxiv": "2402.13217",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2402.13217.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0034_vidvec-adaptive-rerank-budget/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0035",
+  "arxiv": "2510.00615",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2510.00615.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0035_cligym-loop-aware-scratchpad/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0036",
+  "arxiv": "2507.20673",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2507.20673.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0036_kpo-simple-smoothing/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0038",
+  "arxiv": "2310.07712",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2310.07712/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0038_latent-mode-voting-rag/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0039",
+  "arxiv": "2410.01679",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2410.01679/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0039_echo2-prefix-ratio-staleness/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0040",
+  "arxiv": "2306.10763",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2306.10763.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0040_datachef-typed-dsl-recipes/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0041",
+  "arxiv": "2303.11366",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2303.11366.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0041_mel-code-meta-experience/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0042",
+  "arxiv": "2402.15449",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2402.15449.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0042_ggsm-causal-embedding-distill/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0043",
+  "arxiv": "2403.17710",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2403.17710/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0043_isolated-solve-then-judge-injection/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0044",
+  "arxiv": "2404.04475",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2404.04475.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0044_selective-self-reference-judge/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0046",
+  "arxiv": "2210.08726",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2210.08726.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0046_quote-backed-citation-verification/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0047",
+  "arxiv": "2302.04761",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2302.04761.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0047_asa-delexgate-schema-churn/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0050",
+  "arxiv": "2401.06081",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2401.06081/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0050_verifier-edited-mel-negatives/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0051",
+  "arxiv": "2312.06635",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2312.06635/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0051_toeplitz-block-mixing-mhla/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0052",
+  "arxiv": "2310.03716",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2310.03716.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0052_mispo-randomtraj-mechanism/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0053",
+  "arxiv": "2309.03883",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2309.03883.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0053_draft-deanchoring-contextual-drag/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0055",
+  "arxiv": "2410.18252",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2410.18252/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0055_echo2-sparse-delta-broadcast/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0056",
+  "arxiv": "2510.03817",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2510.03817.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0056_robust-innovation-kpo/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0057",
+  "arxiv": "2504.11373",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2504.11373.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0057_livemedbench-ask-before-answer-oracle/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0058",
+  "arxiv": "2410.13232",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2410.13232.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0058_worldmodel-consensus-verification/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0059",
+  "arxiv": "2405.14831",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2405.14831.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0059_versioned-knowledge-objects-conflict-resolution/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0064",
+  "arxiv": "2512.20569",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2512.20569.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0064_nll-guided-swaa-layer-selection/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0065",
+  "arxiv": "2112.12777",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2112.12777.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0065_hubness-penalty-metric-repair/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0067",
+  "arxiv": "2405.19715",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2405.19715.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0067_delta-prefill-switching-speculative-decoding/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0069",
+  "arxiv": "1712.00378",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/1712.00378/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0069_timeout-bootstrapping-truncation-rlvr/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0072",
+  "arxiv": "2406.07524",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2406.07524/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0072_trace-guided-remasking-diffusion-code/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0073",
+  "arxiv": "2410.10781",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2410.10781.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0073_sinkfree-streaming-no-prefix-cache/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0074",
+  "arxiv": "2510.09462",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2510.09462.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0074_livemedbench-grader-injection-hardening/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0075",
+  "arxiv": "2506.15076",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2506.15076.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0075_syntax-diversified-unlearning-leakk/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0076",
+  "arxiv": "1904.09675",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/1904.09675.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0076_api-free-sodam-evaluator/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0077",
+  "arxiv": "2409.05907",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2409.05907/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0077_asa-probe-logit-bias/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0082",
+  "arxiv": "2005.11401",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2005.11401.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0082_context-bagging-noisybench/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0083",
+  "arxiv": "2407.12784",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2407.12784/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0083_query-ood-trim-poisoning-defense/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0085",
+  "arxiv": "2310.17631",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2310.17631.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0085_datachef-tool-distilled-verifier/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0087",
+  "arxiv": "1811.11682",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/1811.11682.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0087_razorsft-continual-onpolicy-sft/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0100",
+  "arxiv": "2004.04906",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2004.04906/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0100_self-anchored-temporal-filtering/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0101",
+  "arxiv": "2505.20274",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2505.20274.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0101_vss-label-stability-early-exit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0102",
+  "arxiv": "2301.12314",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2301.12314.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0102_kl-drift-replay-scheduling/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0104",
+  "arxiv": "2510.10125",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2510.10125.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0104_search-anchored-rollouts/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0105",
+  "arxiv": "2208.04378",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2208.04378.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0105_cross-view-psd-consistency-rppg/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0106",
+  "arxiv": "2408.03910",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2408.03910.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0106_trace-bounded-context-featurebench/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0107",
+  "arxiv": "2006.04152",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2006.04152.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0107_convergence-stopping-generative-embeddings/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0110",
+  "arxiv": "2210.11287",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2210.11287.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0110_branch-augmented-worldmodel-coverage/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0111",
+  "arxiv": "2402.16617",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2402.16617.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0111_ape-label-free-kl-calibration/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0112",
+  "arxiv": "2405.18137",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2405.18137.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0112_interval-matched-noise-quantization/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0114",
+  "arxiv": "2305.10601",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2305.10601.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0114_sketch-gated-trace-clustering/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0115",
+  "arxiv": "2412.15287",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2412.15287/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0115_proxy-verifier-ocr-reranking/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0116",
+  "arxiv": "2410.02355",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2410.02355.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0116_factcheck-grounded-model-editing/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0121",
+  "arxiv": "2512.23447",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2512.23447.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0121_counterfactual-gate-supervision/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0123",
+  "arxiv": "2305.16264",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2305.16264/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0123_compute-matched-repetition-advantage/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0127",
+  "arxiv": "1903.05134",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/1903.05134.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0127_budget-distilled-spectral-ssm/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0134",
+  "arxiv": "2006.16668",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2006.16668.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0134_retrofit-top-p-moe-routing/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0137",
+  "arxiv": "1902.10416",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/1902.10416/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0137_gauge-fixed-learnable-multipliers/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0141",
+  "arxiv": "2112.09118",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2112.09118.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0141_vss-clusterid-hist-stability-early-exit/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0142",
+  "arxiv": "2508.10111",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2508.10111.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0142_reliable-cfg-decoding-diffusion/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0143",
+  "arxiv": "2106.07682",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2106.07682/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0143_tuned-lens-whisper-early-exit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0147",
+  "arxiv": "2207.05833",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2207.05833.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0147_sevir-quantile-remap-calibration/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0150",
+  "arxiv": "2406.09519",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2406.09519.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0150_shallowppl-longcodezip/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0151",
+  "arxiv": "2404.02948",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2404.02948/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0151_midpc-lora-continual-learning/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0153",
+  "arxiv": "2410.20056",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2410.20056.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0153_assistant-inclusive-keying-longmemeval/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0156",
+  "arxiv": "2203.15556",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2203.15556.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0156_length-weighted-repetition-advantage/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0161",
+  "arxiv": "2404.10774",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2404.10774/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0161_user-attested-evidence-halumem/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0162",
+  "arxiv": "2404.14469",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2404.14469.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0162_saap-moment-matching/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0163",
+  "arxiv": "2304.05128",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2304.05128/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0163_unit-test-grounded-rse/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0168",
+  "arxiv": "2004.10964",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2004.10964.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0168_token-balanced-cpt-brain-rot/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0171",
+  "arxiv": "2310.02575",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2310.02575.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0171_js-divergence-lora-merging/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0172",
+  "arxiv": "2402.07841",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2402.07841.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0172_beamclean-clipped-laplace-audit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0174",
+  "arxiv": "2005.13239",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2005.13239.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0174_cr-coverage-audit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0175",
+  "arxiv": "2205.04605",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2205.04605/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0175_secure-simhash-privacy-fingerprints/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0181",
+  "arxiv": "2309.00071",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2309.00071.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0181_mamba-spectrum-winsorization/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0184",
+  "arxiv": "2411.11925",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2411.11925.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0184_velocity-forecast-flowmatching-sampler/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0186",
+  "arxiv": "2510.06213",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2510.06213.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0186_quantized-embeddings-trainingfree-inversion/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0187",
+  "arxiv": "2603.03226",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2603.03226.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0187_dp-eigenspectrum-monitor-logs/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0188",
+  "arxiv": "2408.15621",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2408.15621.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0188_dp-spectral-activation-logging/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0190",
+  "arxiv": "1206.2944",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/1206.2944/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0190_paired-mom-qps-reward/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0191",
+  "arxiv": "2512.23017",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2512.23017.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0191_head-rollback-lora-cl/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0193",
+  "arxiv": "2603.09024",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2603.09024.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0193_selective-rule-refresh-logrules/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0194",
+  "arxiv": "2506.15841",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2506.15841.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0194_llm-free-memory-fusion-forgetting/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0195",
+  "arxiv": "2412.06464",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2412.06464.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0195_exponential-integrator-delta-attention/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0197",
+  "arxiv": "2401.05949",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2401.05949.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0197_lilac-template-merge-poisoning/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0198",
+  "arxiv": "2005.05951",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2005.05951.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0198_stutter-invariance-worldmodel-audit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0201",
+  "arxiv": "2201.05596",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2201.05596/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0201_cap-and-spill-cudagraph-moe-dispatch/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0205",
+  "arxiv": "2506.05295",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2506.05295.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0205_skewguard-polr/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0208",
+  "arxiv": "2511.04662",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2511.04662.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0208_equation-consistency-gated-reflection/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0209",
+  "arxiv": "2509.22072",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2509.22072.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0209_grad-ratio-edit-location/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0213",
+  "arxiv": "2309.17453",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2309.17453/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0213_window-diffusion-overlap-refresh/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0214",
+  "arxiv": "1706.05125",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/1706.05125.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0214_marketplace-search-fit-cards-scaling/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0218",
+  "arxiv": "2405.12532",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2405.12532.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0218_prefill-twice-decode-once/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0221",
+  "arxiv": "2402.02160",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2402.02160/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0221_adaparser-online-demo-poisoning/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0222",
+  "arxiv": "2203.02155",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2203.02155.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0222_escaped-markup-judges-format-spoofing/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0223",
+  "arxiv": "2401.08295",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2401.08295.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0223_lora-svd-equalization-cl/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0226",
+  "arxiv": "2302.12400",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2302.12400.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0226_imbalance-robust-latent-alignment/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0233",
+  "arxiv": "2511.05408",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2511.05408.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0233_phaseguard-dissimilarity-kl-switch/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0234",
+  "arxiv": "2412.17113",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2412.17113/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0234_localtime-adamw-task-switch/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0235",
+  "arxiv": "2409.03277",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2409.03277.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0235_reinked-ocr-view-chart-robustness/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0237",
+  "arxiv": "2412.15280",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2412.15280.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0237_entity-anonymization-context-faithfulness/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0242",
+  "arxiv": "1901.09321",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/1901.09321.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0242_orthostochastic-mhc/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 1
+ },
+ {
+  "code": "FA0244",
+  "arxiv": "2002.08871",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2002.08871.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0244_range-capped-sinkhorn-mhc/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0255",
+  "arxiv": "2401.18079",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2401.18079.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0255_fcboost-dominant-fc-kv-quantization/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0258",
+  "arxiv": "2212.03827",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2212.03827/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0258_suppression-contrast-secret-elicitation/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0280",
+  "arxiv": "2403.06764",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2403.06764.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0280_layer-ratio-attention-debias-vlm-pruning/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0287",
+  "arxiv": "2603.18017",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2603.18017.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0287_sinkcast-bos-fp32-rope/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0290",
+  "arxiv": "2505.15420",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2505.15420.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0290_hnsw-topology-deanonymization/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0291",
+  "arxiv": "2412.09565",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2412.09565.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0291_key-search-bypasses-encrypted-activation-monitors/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0292",
+  "arxiv": "2312.15685",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2312.15685/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0292_tinylr-proxy-sft-data-valuation/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0301",
+  "arxiv": "2203.11171",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2203.11171/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0301_definition-unit-tests-convention-adherence/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0306",
+  "arxiv": "2504.04039",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2504.04039.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0306_trace-order2-fggm-migu-audit/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0309",
+  "arxiv": "2305.03010",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2305.03010.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0309_sparse-concept-choice-leakage/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0316",
+  "arxiv": "2403.14003",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/2403.14003/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0316_mi-grounded-decoding-visual-forgetting/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0328",
+  "arxiv": "2510.05554",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2510.05554.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0328_calib-attnsort-onepass/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0336",
+  "arxiv": "1903.03862",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/1903.03862.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0336_inlp-subject-nullspace-eeg-linear-probe/code/writing/method_diagrams/framework_overview.png",
+  "tier": 2
+ },
+ {
+  "code": "FA0349",
+  "arxiv": "1605.06049",
+  "pdf": "${SCISLOP_ROOT}/artifact-ai2science/Evaluation/00_DATA_AUDIT/hu_corpus/1605.06049/paper.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0349_overlap-lbfgs-collocation-resampling/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0353",
+  "arxiv": "2003.11942",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2003.11942.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0353_public-anchor-drift-adapter/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0374",
+  "arxiv": "2510.09734",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2510.09734.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0374_anisotropic-spectral-error-dressing-weatherbench2/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0388",
+  "arxiv": "1211.5063",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/1211.5063.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0388_cusum-calibrated-rollback-controller/code/writing/method_diagrams/framework_overview.png",
+  "tier": 1
+ },
+ {
+  "code": "FA0393",
+  "arxiv": "2508.11847",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2508.11847.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0393_grounded-rao-kupper-music-arena/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 3
+ },
+ {
+  "code": "FA0401",
+  "arxiv": "2503.20745",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2503.20745.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0401_finauditing-arelle-symbolic-baseline/code/writing/method_diagrams/framework_overview.jpeg",
+  "tier": 2
+ },
+ {
+  "code": "FA0408",
+  "arxiv": "2506.14913",
+  "pdf": "${SCISLOP_ROOT}/paper/draft_v6/slop/Artifacts/candidte/_census_0914/pairs165_full/data/pairs165_pdfs/2506.14913.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0408_logrules-induction-poisoning/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ },
+ {
+  "code": "FA0421",
+  "arxiv": "2402.10172",
+  "pdf": "${SCISLOP_ROOT}/ana/reference/data/cited_pdfs/2402.10172.pdf",
+  "ai_png": "${SCISLOP_ROOT}/fars/papers/FA0421_farkas-dual-ray-optmodel-repair/code/writing/method_diagrams/framework_overview.png",
+  "tier": 3
+ }
+]

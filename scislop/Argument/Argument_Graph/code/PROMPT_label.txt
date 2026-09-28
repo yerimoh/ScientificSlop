@@ -1,0 +1,24 @@
+Below is the Introduction of a research paper, with its sentences numbered.
+
+{numbered}
+
+Consider ONLY sentence [S{i}]:
+"{target}"
+
+Most sentences in an introduction are NOT key claims. Answer "none" if the sentence is any of these:
+  * background about a field or a problem
+  * a description or definition of how some method works
+  * an announcement of what this paper does, proposes, introduces or demonstrates
+  * a statement of contributions, or a pointer to a later section, table or figure
+  * a report of this paper's own results
+
+A sentence is a key claim ONLY if it asserts something contestable that a careful reader would
+demand a justification for, in one of these three senses:
+  superiority       asserts that this paper's method is better than or preferable to a named alternative
+  prior_limitation  asserts that a named prior method, or a class of prior methods, falls short
+  design_choice     gives the reason WHY a component, setting or approach was chosen
+
+When in doubt, answer none.
+
+Return strict JSON only:
+{"label": "superiority" | "prior_limitation" | "design_choice" | "none"}
