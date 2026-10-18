@@ -18,6 +18,9 @@ Score = failed units / checked units, higher = more slop. The aggregate of Eq. 7
 plane, then the mean of the planes (implemented in `_common/records.py::aggregate_scores` and in
 `scislopbench/build/build_hf_release.py`).
 
+Proposed for v2, not part of the paper's score: `Argument/thin_grounding` (distinct cited works per 1,000 body words,
+and the share of body sections that cite nothing; deterministic). See its `RUN.md`.
+
 ## Shared code (`_common/`)
 
 | File | Role |

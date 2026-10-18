@@ -19,6 +19,7 @@ CHECKER_DIR = {
     "citation": f"{SLOP}/Argument/citation/code",
     "evidence_gap": f"{SLOP}/Artifacts/evidence_gap/code",
     "argument_graph": f"{SLOP}/Argument/Argument_Graph/code",
+    "thin_grounding": f"{SLOP}/Argument/thin_grounding/code",
 }
 ap = argparse.ArgumentParser()
 ap.add_argument("--half", required=True, choices=list(BENCH))
