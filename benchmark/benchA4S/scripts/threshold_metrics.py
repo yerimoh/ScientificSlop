@@ -17,6 +17,8 @@ def prf(ai, hu, d, thr):
 
 def analyse(by, d):
     both = [(v[1], v[0]) for v in by.values() if 1 in v and 0 in v]
+    if not both:                         # no outputs for this row; table_pooled.py prints "missing"
+        return None
     ai = [v[1] for v in by.values() if 1 in v]; hu = [v[0] for v in by.values() if 0 in v]
     hs = sorted(hu, reverse=(d > 0))
     thr5 = hs[max(0, int(0.05 * len(hs)) - 1)]
@@ -38,6 +40,9 @@ out["SciSlop (aggregate)"] = analyse(aggregate_pool(), +1)
 
 print(f"{'row':<22}{'pairs':>6}{'nAI':>5}{'nHU':>5} | {'PairAcc':>7}{'AUROC':>7}{'TPR':>6} | {'P@5':>6}{'R@5':>6}{'F1@5':>6}{'FPR':>6} | {'bestF1':>7}{'P':>6}{'R':>6}{'FPR':>6}")
 for k, r in out.items():
+    if r is None:
+        print(f"{k:<22}  missing")
+        continue
     print(f"{k:<22}{r['n_pairs']:>6}{r['n_ai']:>5}{r['n_hu']:>5} | {r['pairacc']:>7.3f}{r['auroc']:>7.3f}{r['tpr']:>6.3f} | "
           f"{r['P5']:>6.3f}{r['R5']:>6.3f}{r['F5']:>6.3f}{r['fpr5']:>6.3f} | {r['bestF1']:>7.3f}{r['bestP']:>6.3f}{r['bestR']:>6.3f}{r['best_fpr']:>6.3f}")
 json.dump(out, open(os.environ.get("SCISLOP_ROOT", ".") + "/paper/draft_v6/scislopbench/benchA4S/results/threshold_metrics.json", "w"), indent=1)
